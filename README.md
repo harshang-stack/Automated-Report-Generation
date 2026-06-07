@@ -104,8 +104,3 @@ Deploy steps:
 2. Push this repo to Heroku
 3. Set any required environment variables (e.g. email credentials for notifications)
 
----
-
-## 🙏 Acknowledgements
-
-Built by [@pplonski](https://github.com/pplonski) using the [Mercury](https://github.com/mljar/mercury) framework by MLJAR.
