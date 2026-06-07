@@ -106,21 +106,6 @@ Deploy steps:
 
 ---
 
-## 🔗 Links
-
-- 🌐 Live Demo: [automated-pdf-reports.herokuapp.com](https://automated-pdf-reports.herokuapp.com/app/1)
-- 📝 Tutorial Article: [Automated PDF Reports in Python](https://mljar.com/blog/automated-reports-python/)
-- ⚡ Mercury Framework: [github.com/mljar/mercury](https://github.com/mljar/mercury)
-- 🌍 Mercury Website: [mljar.com/mercury](https://mljar.com/mercury)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgements
 
 Built by [@pplonski](https://github.com/pplonski) using the [Mercury](https://github.com/mljar/mercury) framework by MLJAR.
